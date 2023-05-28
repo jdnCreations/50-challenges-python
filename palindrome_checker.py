@@ -3,6 +3,7 @@ import sys
 
 def check_for_palindrome(string):
     backwards_string = ""
+    string = string.lower()
     for i in reversed(range(len(string))):
         backwards_string = backwards_string + string[i]
 
