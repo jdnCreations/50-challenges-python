@@ -7,11 +7,7 @@ def repeat_characters_amount(base_string, amount):
 
 
 def repeat_characters(base_string):
-    repeated_string = ""
-    for char in base_string:
-        repeated_string = repeated_string + (char * 2)
-
-    return repeated_string
+    return repeat_characters_amount(base_string, 1)
 
 
 print(repeat_characters("FROGS"))
