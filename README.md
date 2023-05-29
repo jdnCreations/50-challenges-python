@@ -4,8 +4,6 @@
 
 ### Links to all Challenges so far
 
-[10 Python Challenges @ CodeAcademy](https://www.codecademy.com/resources/blog/python-code-challenges-for-beginners/)
-
 [Tidy Hyperlinks](https://edabit.com/challenge/nfPNbisehCjuC8mkd)
 
 [Virtual DAC](https://edabit.com/challenge/AJGqpNL2yAyhbdpvB)
@@ -36,11 +34,15 @@
 
 [Flipping Bits](https://edabit.com/challenge/z39yXccJGLAy3BDNX)
 
-[The Snake ï¿½ Area Filling](https://edabit.com/challenge/Y5Ji2HDnQTX7MxeHt)
+[The Snake — Area Filling](https://edabit.com/challenge/Y5Ji2HDnQTX7MxeHt)
 
 [Basic Arithmetic Operations on a String Number](https://edabit.com/challenge/peezjw73G8BBGfHdW)
 
 [The Karaca's Encryption Algorithm](https://edabit.com/challenge/JzBLDzrcGCzDjkk5n)
 
 [Pluralize!](https://edabit.com/challenge/LR98GCwLGYPSv8Afb)
+
+[Remove The Word!](https://edabit.com/challenge/gH3QMvF3czMDjENkk)
+
+[When to Sleep?](https://edabit.com/challenge/e5XZ82bAk2rBo9EfS)
 

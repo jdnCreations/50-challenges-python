@@ -1,6 +1,11 @@
 import os
 from tidy_hyperlinks import tidy_link
-import requests
+
+titles = [
+    "# 50 Challenges/Exercise in Python",
+    "## Completing 50 challenges/exercises in python for practice :)",
+    "### Links to all Challenges so far"
+]
 
 links = [
     "https://edabit.com/challenge/3DAkZHv2LZjgqWbvW",
@@ -32,13 +37,18 @@ challenges = {
     "The Karaca's Encryption Algorithm": "https://edabit.com/challenge/JzBLDzrcGCzDjkk5n",
     "Pluralize!": "https://edabit.com/challenge/LR98GCwLGYPSv8Afb",
     "Remove The Word!": "https://edabit.com/challenge/gH3QMvF3czMDjENkk",
+    "When to Sleep?": "https://edabit.com/challenge/e5XZ82bAk2rBo9EfS"
 }
 
 def add_challenges_to_readme():
     cwd = os.getcwd()
     file_name = "README.md"
 
-    file = open(cwd + "\\" + file_name, 'a')
+    file = open(cwd + "\\" + file_name, 'w')
+
+    for item in titles:
+        file.write(item)
+        file.write('\n\n')
 
     for key, value in challenges.items():
         file.write(tidy_link(key, value))
