@@ -31,6 +31,7 @@ challenges = {
     "Basic Arithmetic Operations on a String Number": "https://edabit.com/challenge/peezjw73G8BBGfHdW",
     "The Karaca's Encryption Algorithm": "https://edabit.com/challenge/JzBLDzrcGCzDjkk5n",
     "Pluralize!": "https://edabit.com/challenge/LR98GCwLGYPSv8Afb",
+    "Remove The Word!": "https://edabit.com/challenge/gH3QMvF3czMDjENkk",
 }
 
 def add_challenges_to_readme():
