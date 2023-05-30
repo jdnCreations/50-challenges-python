@@ -7,15 +7,6 @@ titles = [
     "### Links to all Challenges so far"
 ]
 
-links = [
-    "https://edabit.com/challenge/3DAkZHv2LZjgqWbvW",
-    "https://edabit.com/challenge/Y5Ji2HDnQTX7MxeHt",
-    "https://edabit.com/challenge/nfPNbisehCjuC8mkd",
-    "https://edabit.com/challenge/AJGqpNL2yAyhbdpvB",
-    "https://edabit.com/challenge/SHdu4GwBQehhDm4xT",
-
-]
-
 challenges = {
     "Tidy Hyperlinks": "https://edabit.com/challenge/nfPNbisehCjuC8mkd",
     "Virtual DAC": "https://edabit.com/challenge/AJGqpNL2yAyhbdpvB",
@@ -52,6 +43,9 @@ def add_challenges_to_readme():
     for item in titles:
         file.write(item)
         file.write('\n\n')
+
+    file.write(tidy_link("10 Python Challenges - CodeAcademy", "https://www.codecademy.com/resources/blog/python-code-challenges-for-beginners/"))
+    file.write('\n\n')
 
     for key, value in challenges.items():
         file.write(tidy_link(key, value))

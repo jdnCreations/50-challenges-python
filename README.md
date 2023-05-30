@@ -4,6 +4,8 @@
 
 ### Links to all Challenges so far
 
+[10 Python Challenges - CodeAcademy](https://www.codecademy.com/resources/blog/python-code-challenges-for-beginners/)
+
 [Tidy Hyperlinks](https://edabit.com/challenge/nfPNbisehCjuC8mkd)
 
 [Virtual DAC](https://edabit.com/challenge/AJGqpNL2yAyhbdpvB)
@@ -44,5 +46,11 @@
 
 [Remove The Word!](https://edabit.com/challenge/gH3QMvF3czMDjENkk)
 
-[When to Sleep?](https://edabit.com/challenge/e5XZ82bAk2rBo9EfS)
+[Convert to Hex](https://edabit.com/challenge/g6yjSfTpDkX2STnSX)
+
+[Paint the Walls](https://edabit.com/challenge/W8imhL66osEpK2ANs)
+
+[C*ns*r*d Str*ngs](https://edabit.com/challenge/ehyZvt6AJF4rKFfXT)
+
+[Sales by Match](https://edabit.com/challenge/oq2FxAx5bJZgPLk9r)
 
