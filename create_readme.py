@@ -37,7 +37,8 @@ challenges = {
     "The Karaca's Encryption Algorithm": "https://edabit.com/challenge/JzBLDzrcGCzDjkk5n",
     "Pluralize!": "https://edabit.com/challenge/LR98GCwLGYPSv8Afb",
     "Remove The Word!": "https://edabit.com/challenge/gH3QMvF3czMDjENkk",
-    "When to Sleep?": "https://edabit.com/challenge/e5XZ82bAk2rBo9EfS"
+    "Convert to Hex": "https://edabit.com/challenge/g6yjSfTpDkX2STnSX",
+    "Paint the Walls": "https://edabit.com/challenge/W8imhL66osEpK2ANs",
 }
 
 def add_challenges_to_readme():
