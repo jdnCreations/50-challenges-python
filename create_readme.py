@@ -39,6 +39,7 @@ challenges = {
     "Remove The Word!": "https://edabit.com/challenge/gH3QMvF3czMDjENkk",
     "Convert to Hex": "https://edabit.com/challenge/g6yjSfTpDkX2STnSX",
     "Paint the Walls": "https://edabit.com/challenge/W8imhL66osEpK2ANs",
+    "C*ns*r*d Str*ngs": "https://edabit.com/challenge/ehyZvt6AJF4rKFfXT"
 }
 
 def add_challenges_to_readme():
