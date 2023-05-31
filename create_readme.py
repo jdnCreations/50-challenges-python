@@ -32,6 +32,9 @@ challenges = {
     "Paint the Walls": "https://edabit.com/challenge/W8imhL66osEpK2ANs",
     "C*ns*r*d Str*ngs": "https://edabit.com/challenge/ehyZvt6AJF4rKFfXT",
     "Sales by Match": "https://edabit.com/challenge/oq2FxAx5bJZgPLk9r",
+    # "The Magic Square Game": "https://edabit.com/challenge/shf4iTJTbQ7sethFA",
+    "Count and Identify Data Types": "https://edabit.com/challenge/HXkpnCxJgxkFwaReT",
+
 }
 
 def add_challenges_to_readme():
