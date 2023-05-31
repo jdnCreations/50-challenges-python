@@ -34,6 +34,7 @@ challenges = {
     "Sales by Match": "https://edabit.com/challenge/oq2FxAx5bJZgPLk9r",
     # "The Magic Square Game": "https://edabit.com/challenge/shf4iTJTbQ7sethFA",
     "Count and Identify Data Types": "https://edabit.com/challenge/HXkpnCxJgxkFwaReT",
+    "Sharing is Caring": "https://edabit.com/challenge/pqpkRBP4YT5dwBDHm",
 
 }
 
