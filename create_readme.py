@@ -35,8 +35,10 @@ challenges = {
     # "The Magic Square Game": "https://edabit.com/challenge/shf4iTJTbQ7sethFA",
     "Count and Identify Data Types": "https://edabit.com/challenge/HXkpnCxJgxkFwaReT",
     "Sharing is Caring": "https://edabit.com/challenge/pqpkRBP4YT5dwBDHm",
+    "Cup Swapping": "https://edabit.com/challenge/M47FDJLjfNoZ6k6gF"
 
 }
+
 
 def add_challenges_to_readme():
     cwd = os.getcwd()
@@ -57,5 +59,6 @@ def add_challenges_to_readme():
 
     print("Writing complete.")
     file.close()
+
 
 add_challenges_to_readme()
